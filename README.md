@@ -1,4 +1,4 @@
-# SimplyCreateModel-IssueTracker
+# SimplyCreateModel
 
 Author: [YaTangDragon](https://space.bilibili.com/454794521/)  
 Simplified most of Create mod's models  
