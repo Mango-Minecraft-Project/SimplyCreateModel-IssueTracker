@@ -1,4 +1,4 @@
-# SimplyCreateModel
+# \[SCM\] Simply Create Model
 
 Author: [YaTangDragon](https://space.bilibili.com/454794521/)  
 Simplified most of Create mod's models  
@@ -7,6 +7,8 @@ The optimization effect of resource pack is limited, and the actual optimization
 If it doesn't load successfully, please press `F3+T` once.
 
 ---
+
+# 简单动力
 
 作者：[亚龙糖浆](https://space.bilibili.com/454794521/)  
 简化了大量原版机械动力模型，减少渲染卡顿。  
