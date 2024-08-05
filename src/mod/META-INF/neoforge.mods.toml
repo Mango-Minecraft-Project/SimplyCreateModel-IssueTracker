@@ -1,0 +1,20 @@
+modLoader = "lowcodefml"
+loaderVersion = "[1,)"
+license = "ARR"
+showAsResourcePack = true
+issueTrackerURL = "https://github.com/Mango-Minecraft-Project/SimplyCreateModel-IssueTracker/issues"
+
+[[mods]]
+modId = "simply_create_model"
+version = "1.2"
+displayName = "Simply Create Model｜简单动力"
+description = "Optimise many Create mod models.\n简化了大部分机械动力的模型"
+logoFile = "pack.png"
+updateJSONURL = "https://api.modrinth.com/updates/yqmcXBDx/forge_updates.json"
+modUrl = "https://modrinth.com/datapack/simply-create-model/versions"
+credits = ""
+authors = "YaTangDragon, MangoJellyPudding"
+displayURL = "https://modrinth.com/datapack/simply-create-model"
+
+[[dependencies.simply_create_model]]
+modId = "create"
