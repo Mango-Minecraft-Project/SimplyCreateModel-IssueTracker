@@ -3,7 +3,7 @@ from pathlib import Path
 
 CURRENT_DIR = Path(__file__).parent
 PROCESS_DIR = "mod"
-RESULT_FILENAME = "Simply-Create-Model-Mod-v1.2"
+RESULT_FILENAME = "Simply-Create-Model-Mod-v1.2hotfix1"
 
 
 current_folder_path = CURRENT_DIR / PROCESS_DIR
