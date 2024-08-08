@@ -18,3 +18,5 @@ displayURL = "https://modrinth.com/datapack/simply-create-model"
 
 [[dependencies.simply_create_model]]
 modId = "create"
+mandatory = true
+versionRange = "[0.5.0,)"
